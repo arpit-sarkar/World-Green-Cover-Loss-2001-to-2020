@@ -8,7 +8,7 @@ This project analyses the loss of green cover throughout the world. Components o
 - Yearly % change in carbon dioxide and other gas emissions
 - Factors responsible for green cover loss
 
-<h3>Dashboard</h3>
+<h3>Dashboard</h3> 
 
 [![Green Cover Loss (2)](https://user-images.githubusercontent.com/100153057/155877349-bb68f79a-4c21-479f-a9ad-c5b0ffc60fac.png)](https://public.tableau.com/app/profile/arpit.sarkar/viz/GreenCoverLoss-2001to2020/GreenCoverLoss)
 
